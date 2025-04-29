@@ -1,0 +1,15 @@
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/MyappApplication.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/config/DataLoader.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/controller/HelloController.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/controller/PlayerController.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/controller/StockController.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/model/Player.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/model/PlayerStock.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/model/Stock.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/model/StockConstants.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/model/StockRequest.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/repository/PlayerRepository.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/repository/PlayerStockRepository.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/repository/StockRepository.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/service/PlayerService.java
+/Users/himang10/mydev/skala/ywyi-skala-edu-code/cloud/k8s-ddive/myapp/01.my-app-jpa/src/main/java/com/sk/skala/myapp/service/StockService.java
