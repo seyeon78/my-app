@@ -1,13 +1,13 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: sk000-my-app
+  name: sk009-my-app
   namespace: skala-practice
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: sk000-my-app
+      app: sk009-my-app
   template:
     metadata:
       annotations:
@@ -16,7 +16,7 @@ spec:
         prometheus.io/path: '/actuator/prometheus'
         update: b4b0bfcf04c7cd0f658321d02714cb5d
       labels:
-        app: sk000-my-app
+        app: sk009-my-app
     spec:
       serviceAccountName: default
       containers:
@@ -27,6 +27,6 @@ spec:
         - name: LOGGING_LEVEL
           value: DEBUG
         - name: USER_NAME
-          value: sk000
+          value: sk009
         - name: NAMESPACE
           value: skala-practice
